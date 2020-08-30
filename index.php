@@ -9,5 +9,10 @@
 <h1> WOOOT <h1>
 <h2> this is my first automation! </h2>
 <h3> REV: </h3>
+<hr>
+<?php 
+// Show all information, defaults to INFO_ALL
+phpinfo();
+?>
 </body>
 </html>
